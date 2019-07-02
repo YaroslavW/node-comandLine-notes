@@ -1,0 +1,11 @@
+{
+  "name": "node-note-console",
+  "version": "1.0.2",
+  "description": "Console-app for reading and adding and del  notes",
+  "main": "app.js",
+  "author": "Yaroslav <doctor355@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
